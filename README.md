@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tajwararik/Frontend-Mentor-Challenge-4)
-- Live Site URL: [Add live site URL here](https://tajwararik.github.io/Frontend-Mentor-Challenge-4/)
+- Solution URL: [Solution URL](https://github.com/tajwararik/Frontend-Mentor-Challenge-4)
+- Live Site URL: [Live site URL](https://tajwararik.github.io/Frontend-Mentor-Challenge-4/)
 
 ## My process
 
