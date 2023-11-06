@@ -93,7 +93,6 @@ h1:hover {
 }
 
 main>p {
-    font-size: 1em;
     font-weight: var(--fw-light);
     color: var(--soft-blue);
 }
