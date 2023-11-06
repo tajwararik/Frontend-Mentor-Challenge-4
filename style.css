@@ -36,7 +36,7 @@ body {
 
 main {
     width: 100%;
-    max-width: 375px;
+    max-width: 350px;
     height: auto;
     background-color: var(--bg-cb);
     box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
